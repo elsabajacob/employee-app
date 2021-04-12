@@ -8,6 +8,16 @@
     <title>Employee Application</title>
 </head>
 <body>
+    <div class="container">
+        <div class="row">
+            <div class="col col-2">
+                <a href="">Login</a>
+                <a href="">Home</a>
+                <a href="">MyPage</a>
+                <a href="">Working Time</a>
+                <a href="">Salary details</a>
+            </div>
+            <div class="col col-10">
     <h3>Enter Employee Details</h3>
     <table class="table">
         <tr>
@@ -55,5 +65,8 @@
             <td><button type="submit" class="btn btn-warning">ADD EMPLOYEE</button></td>
         </tr>
     </table>
+    </div>
+    </div>
+    </div>
 </body>
 </html>
