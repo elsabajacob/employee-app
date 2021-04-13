@@ -10,14 +10,14 @@
 <body>
     <div class="container">
         <div class="row">
-            <div class="col col-2 col-sm-4 col-md-6">
+            <div class="col col-2 col-sm-4 col-md-4 col-lg-6">
                 <a href="">Login</a>
                 <a href="">Home</a>
                 <a href="">MyPage</a>
                 <a href="">Working Time</a>
                 <a href="">Salary details</a>
             </div>
-            <div class="col col-10 col-sm-8 col-md-6">
+            <div class="col col-10 col-sm-8 col-md-8 col-lg-6">
     <h3>Enter Employee Details</h3>
     <table class="table">
         <tr>
